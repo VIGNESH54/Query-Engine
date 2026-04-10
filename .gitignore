@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Mac OS
+.DS_Store
+._*
+
+# Data files (they are too large for git and are generated locally)
+*.parquet
+*.csv
